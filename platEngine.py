@@ -1,6 +1,5 @@
 import pygame, sys
 from pygame.locals import *
-sys.path.append("C:\\Users\\hates\\Desktop\\modules")
 import parametric
 import time
 screen = pygame.display.set_mode((640,480))
